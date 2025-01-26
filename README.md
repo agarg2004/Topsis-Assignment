@@ -10,7 +10,7 @@ This is a python package used to implement TOPSIS(Technique of Order Preference 
 
 ## Installation
 
-pip install Topsis-AnirudhGarg-102203573
+pip install Topsis-AnirudhGarg-102203573==1.0.14
 
 ## Example:
 
